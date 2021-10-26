@@ -1,5 +1,5 @@
 .blue-color{
-    color: blue;
+    color: goldenrod;
 }
 body{
   font-family: sans serif;
@@ -7,12 +7,12 @@ body{
   line-height: 26px;
 }
 .halfwidth{
-  width: 50%;
+  width: 80%;
   float: left;
 }
 .sideimg{
-  width: 90%;
-  padding-left: 10%;
+  width: 100%;
+  padding: 5%;
 }
 .primarybtn{
   color: white;
@@ -21,6 +21,7 @@ body{
   border-radius: 30px;
   text-decoration: none;
   margin-left: 20%;
+  font-family: Brush Script MT, cursive;
 }
 h1{
   font-size: 2.0em;
@@ -30,19 +31,47 @@ h1{
   display: inline-block;
 }
 .osideimg{
-  width: 90%;
-  padding-right: 30%;
+  width: 100%;
+  padding: 5%;
 }
 .experiences{
   padding: 30px;
   margin: 30px;
-  background-color: rgb(238,251,255);
+  background-color: blue;
   border-radius: 20px;
 }
 .experience-item{
-  padding: left;
-  border-left: 1px solid rgba(137,130,247,0.2)
+  padding: 10px;
+  border: 4px solid orange;
+  border-radius: 20px;
+  background-color: orange;
 }
-
-
-
+.heading{
+  color: rebeccapurple;
+  background-color: steelblue;
+  border: 2px solid steelblue;
+  padding: 5%;
+}
+.title{
+  text-align: center;
+  border: 15px dotted orange;
+  border-radius: 20px;
+  padding: 1%;
+  background-color: indigo;
+}
+.bodying{
+  color: black;
+  background-color: steelblue;
+  border: 2px solid royalblue;
+  padding: 5%;
+}
+.tit{
+  text-align: center;
+  border: 15px dotted black;
+  border-radius: 20px;
+  padding: 1%;
+  background-color: indigo;
+}
+.redcolor{
+  color: red;
+}
